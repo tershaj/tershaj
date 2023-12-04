@@ -6,9 +6,9 @@ tershaj disassembler
 
 tershaj disassembler
 
-Copyright (C) 2023 Masscollabs Services 
+Copyright (C) 2023-2024 Masscollabs Services 
 
-Copyright (C) 2023 tershaj and contributors
+Copyright (C) 2023-2024 tershaj and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
